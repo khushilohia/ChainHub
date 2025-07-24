@@ -139,15 +139,3 @@ This image shows the login screen, where users authenticate to access their pers
 
 <img width="1918" height="952" alt="Login screenshot" src="https://github.com/user-attachments/assets/d2c3baef-9439-4705-8b77-a284a03a5bfd" />
 
-<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/bcb3487f-1db5-4c9a-8d03-4b65e934df70" />
-
-<img width="1918" height="952" alt="image" src="https://github.com/user-attachments/assets/d2c3baef-9439-4705-8b77-a284a03a5bfd" />
-=======
-### 2. Open the `BUILD.md` file for further instructions.
-
-
-
-<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/bcb3487f-1db5-4c9a-8d03-4b65e934df70" />
-
-<img width="1918" height="952" alt="image" src="https://github.com/user-attachments/assets/d2c3baef-9439-4705-8b77-a284a03a5bfd" />
->>>>>>> 74b3c97a9404bb37e2eba3e099f25c816c657451
