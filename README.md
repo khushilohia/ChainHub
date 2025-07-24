@@ -26,5 +26,6 @@ To migrate your ICP Ninja project off of the web browser and develop it locally,
 
 
 
-<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/13154a7f-97fd-4f23-9474-58cd34d535f0" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/bcb3487f-1db5-4c9a-8d03-4b65e934df70" />
+
 <img width="1918" height="952" alt="image" src="https://github.com/user-attachments/assets/d2c3baef-9439-4705-8b77-a284a03a5bfd" />
